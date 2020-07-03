@@ -18,7 +18,7 @@ testcafe chrome .\DuckDuckGoAutomation.js
 ```
 
 ## Contributing
-Feel free to add as comments and commits as required
+Feel free to add any comments and commits as required
 
 ## Author
 Vince Leoncio
